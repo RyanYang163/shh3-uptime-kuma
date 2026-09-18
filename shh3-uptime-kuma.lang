@@ -1,0 +1,97 @@
+[en-us]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "自托管服务监控：HTTP/TCP/Ping/证书到期监测，带公开状态页。"
+release_note = "1. 首次发布。"
+important = "需要先在 TOS 应用中心安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "自托管服务监控：HTTP/TCP/Ping/证书到期监测，带公开状态页。"
+release_note = "1. 首次發佈。"
+important = "需要先在 TOS 應用中心安裝並啟用 DockerEngine。"
+
+[fr-fr]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Uptime Kuma"
+auth = "shh"
+descript = "A self-hosted monitoring tool for tracking service uptime with status pages."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
