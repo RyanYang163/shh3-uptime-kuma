@@ -1,0 +1,10 @@
+{
+  "name": "Uptime Kuma",
+  "license": "MIT",
+  "port": 18803,
+  "license_url": "https://raw.githubusercontent.com/louislam/uptime-kuma/master/LICENSE",
+  "healthcheck": "nc -z localhost 3001",
+  "en": "A self-hosted monitoring tool for tracking service uptime with status pages.",
+  "features": "- HTTP(s), TCP, Ping, DNS and push monitors\n- Certificate expiry monitoring\n- Public status pages\n- Notifications via 90+ providers",
+  "date": "2026-09-20"
+}
