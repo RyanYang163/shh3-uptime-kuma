@@ -9,8 +9,6 @@
 # below is published by the upstream project and is used unmodified.
 # Full license text: see LICENSE in the repository root.
 # ============================================================================
-version: "3.8"
-
 services:
   shh3-uptime-kuma:
     image: louislam/uptime-kuma:2
@@ -34,7 +32,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "500m"
+          cpus: "0.5"
           memory: 512M
 
 x-app-meta:
